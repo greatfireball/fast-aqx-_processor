@@ -1,2 +1,4 @@
-# fast-aqx-_processor
+* Fast[aqx]::Processor
+
+** Description
 A perl object which is able to handle fasta/fastq/fastx files
